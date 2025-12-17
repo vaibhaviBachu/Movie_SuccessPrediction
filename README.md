@@ -1,4 +1,4 @@
-# ElevateLabs_Project
+# MovieSuccessPrediction
 
  <h1>Movie Success Prediction & Sentiment Analysis</h1>
 
